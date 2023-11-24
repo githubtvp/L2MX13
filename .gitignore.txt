@@ -1,0 +1,7 @@
+*.o
+*.exe
+*.[ao]
+!lib.a
+*.log
+*.tmp
+*.pid
