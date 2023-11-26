@@ -1,4 +1,3 @@
-
 #include <iostream>
 #include <cstdlib>
 #include <string>
@@ -130,7 +129,7 @@ const aEventRec& BinaryHeap<aEventRec>:: findMin() const
  */
 // Percolate up - hole /= 2 moves the hole up to its parent
 template<class aEventRec>
-void BinaryHeap<aEventRec>::insert(const aEventRec &x)
+void BinaryHeap<aEventRec>::insert(const aEventRec &eventArrDeptime)
 {
 	if (currentSize == theHeapArray.size() - 1)
 	{
@@ -138,12 +137,12 @@ void BinaryHeap<aEventRec>::insert(const aEventRec &x)
 	}
 	// Percolate up - hole /= 2 moves the hole up to its parent
 	int hole = ++currentSize;
-	for (; hole > 1 && x < theHeapArray[hole / 2]; hole /= 2) // hole /= 2 means next iteration hole has moved up
+	for (; hole > 1 && eventArrDeptime < theHeapArray[hole / 2]; hole /= 2) // hole /= 2 means next iteration hole has moved up
 	{												   // i.e. hole percolates up wards
 		theHeapArray[hole] = theHeapArray[hole / 2];				   // element at hole/2 moved down
-													   // to the hole posn if x < theHeapArray[ hole / 2 ]
+													   // to the hole posn if eventArrDeptime < theHeapArray[ hole / 2 ]
 	}
-	theHeapArray[hole] = x; // when x value NOT < than hole/2 then x placed at hole posn
+	theHeapArray[hole] = eventArrDeptime; // when eventArrDeptime value NOT < than hole/2 then eventArrDeptime placed at hole posn
 }
 /**
  * Remove the minimum item.

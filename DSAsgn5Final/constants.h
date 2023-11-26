@@ -7,10 +7,6 @@ const int MAX_HOURS = 24;
 const int FLT_NUMBER_START = 1000;
 const int NO_OF_FLIGHTS = 14;
 const int IN_FLTS_HOURLY_SCHEDULE[] = {2, 3, 4, 9, 11, 14, 17, 19, 28, 33, 37, 44, 49, 55};
-/* const	string ORIG[] = { "LAX", "SMF", "IAH", "ABQ", "SJC", "PHX", "SFO", "SLC", "TUL", "DCA", "BNA",
-		"MAF", "HOS", "ELP" };
-const	string DESTN[] = { "JFK", "RDU", "MSP", "ATL", "BOS", "MIA", "ORD", "AUS", "ONT", "LAS", "SEA",
-		"AMA", "DEN", "MEM" }; */
 const string ORIG[] = {"AGR", "AMD", "BLR", "BHO", "BBI", "MAA", "CJB", "DEL", "GOI", "HYD", "IDR",
 					   "JLP", "JAI", "JDH"};
 const string DESTN[] = {"KNU", "COK", "CCU", "LKO", "IXM", "BOM", "NAG", "PAT", "PNQ", "SHL", "TRV",

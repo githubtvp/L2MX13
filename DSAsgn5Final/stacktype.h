@@ -43,7 +43,7 @@ StackType<Type>::StackType()
     stackMaxSize = 100;
 	curSize = 0;
 	list = new Type[stackMaxSize];
-	//cout << "Defauilt constructor used .." << endl;
+	//cout << "Default constructor used .." << endl;
 }
 
 template<class Type>
