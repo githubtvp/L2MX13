@@ -124,6 +124,7 @@ const aEventRec& BinaryHeap<aEventRec>:: findMin() const
 	return theHeapArray[1];
 }
 
+
 /**
  * Insert item x, allowing duplicates.
  */

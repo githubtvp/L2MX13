@@ -14,6 +14,7 @@ const string DESTN[] = {"KNU", "COK", "CCU", "LKO", "IXM", "BOM", "NAG", "PAT", 
 const string DATA_FILE_NAME1 = "servicedFlightsList.txt"; // the data text file name containing the serviced flights details
 const string DATA_FILE_NAME2 = "divertedFlightsList.txt"; // the data text file name containing the delayed flights details
 
+
 const int MAX_NO = 100;
 const int MIN_DELAY_INTR = 20;
 const int MAX_ADDL_DELAY_INTR = 20;
