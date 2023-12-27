@@ -1,0 +1,1496 @@
+
+***** Begining of Assignment *****
+
+
+ Assignment # 5 
+ Student Name : Varadharaja Perumal 
+ Student Id   : 1008475675 
+ Due : Tuesday, March 15, 2016
+ 
+
+ Flight Number: 1000 From : LAX
+                       To : JFK has arrived at gate number 22 at time: 2 minute of the day 
+                               
+
+ Flight Number: 1001 From : SMF
+                       To : RDU has arrived at gate number 21 at time: 3 minute of the day 
+                               
+
+ Flight Number: 1002 From : IAH
+                       To : MSP has arrived at gate number 20 at time: 4 minute of the day 
+                               
+
+ Flight Number: 1003 From : ABQ
+                       To : ATL has arrived at gate number 19 at time: 9 minute of the day 
+                               
+
+ Flight Number: 1004 From : SJC
+                       To : BOS has arrived at gate number 18 at time: 11 minute of the day 
+                               
+
+ Flight Number: 1005 From : PHX
+                       To : MIA has arrived at gate number 17 at time: 14 minute of the day 
+                               
+
+ Flight Number: 1006 From : SFO
+                       To : ORD has arrived at gate number 16 at time: 17 minute of the day 
+                               
+
+ Flight Number: 1007 From : SLC
+                       To : AUS has arrived at gate number 15 at time: 19 minute of the day 
+                               
+
+ Flight Number: 1008 From : TUL
+                       To : ONT has arrived at gate number 14 at time: 28 minute of the day 
+                               
+
+ Flight Number: 1009 From : DCA
+                       To : LAS has arrived at gate number 13 at time: 33 minute of the day 
+                               
+
+ Flight Number: 1010 From : BNA
+                       To : SEA has arrived at gate number 12 at time: 37 minute of the day 
+                               
+
+ Flight Number: 1011 From : MAF
+                       To : AMA has arrived at gate number 11 at time: 44 minute of the day 
+                               
+
+ Flight Number: 1012 From : HOS
+                       To : DEN has arrived at gate number 10 at time: 49 minute of the day 
+                               
+
+ Flight Number: 1013 From : ELP
+                       To : MEM has arrived at gate number 9 at time: 55 minute of the day 
+                               
+
+ Flight Number: 1014 From : LAX
+                       To : JFK has arrived at gate number 8 at time: 62 minute of the day 
+                               
+
+ Flight Number: 1015 From : SMF
+                       To : RDU has arrived at gate number 7 at time: 63 minute of the day 
+                               
+
+ Flight Number: 1016 From : IAH
+                       To : MSP has arrived at gate number 6 at time: 64 minute of the day 
+                               
+
+ Flight Number: 1017 From : ABQ
+                       To : ATL has arrived at gate number 5 at time: 69 minute of the day 
+                               
+
+ Flight Number: 1003 From : ABQ
+                       To : ATL  has departed from gate number 19 at time: 69 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1018 From : SJC
+                       To : BOS has arrived at gate number 19 at time: 71 minute of the day 
+                               
+
+ Flight Number: 1004 From : SJC
+                       To : BOS  has departed from gate number 18 at time: 71 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1019 From : PHX
+                       To : MIA has arrived at gate number 18 at time: 74 minute of the day 
+                               
+
+ Flight Number: 1005 From : PHX
+                       To : MIA  has departed from gate number 17 at time: 74 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1020 From : SFO
+                       To : ORD has arrived at gate number 17 at time: 77 minute of the day 
+                               
+
+ Flight Number: 1006 From : SFO
+                       To : ORD  has departed from gate number 16 at time: 77 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1007 From : SLC
+                       To : AUS  has departed from gate number 15 at time: 79 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1021 From : SLC
+                       To : AUS has arrived at gate number 15 at time: 79 minute of the day 
+                               
+
+ Flight Number: 1001 From : SMF
+                       To : RDU  has departed from gate number 21 at time: 84 minute of the day 
+                                 Flight departure delayed by 21 minutes
+
+ Flight Number: 1022 From : TUL
+                       To : ONT has arrived at gate number 21 at time: 88 minute of the day 
+                               
+
+ Flight Number: 1002 From : IAH
+                       To : MSP  has departed from gate number 20 at time: 91 minute of the day 
+                                 Flight departure delayed by 27 minutes
+
+ Flight Number: 1023 From : DCA
+                       To : LAS has arrived at gate number 20 at time: 93 minute of the day 
+                               
+
+ Flight Number: 1000 From : LAX
+                       To : JFK  has departed from gate number 22 at time: 94 minute of the day 
+                                 Flight departure delayed by 32 minutes
+
+ Flight Number: 1024 From : BNA
+                       To : SEA has arrived at gate number 22 at time: 97 minute of the day 
+                               
+
+ Flight Number: 1010 From : BNA
+                       To : SEA  has departed from gate number 12 at time: 97 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1025 From : MAF
+                       To : AMA has arrived at gate number 12 at time: 104 minute of the day 
+                               
+
+ Flight Number: 1026 From : HOS
+                       To : DEN has arrived at gate number 16 at time: 109 minute of the day 
+                               
+
+ Flight Number: 1027 From : ELP
+                       To : MEM has arrived at gate number 4 at time: 115 minute of the day 
+                               
+
+ Flight Number: 1009 From : DCA
+                       To : LAS  has departed from gate number 13 at time: 116 minute of the day 
+                                 Flight departure delayed by 23 minutes
+
+ Flight Number: 1014 From : LAX
+                       To : JFK  has departed from gate number 8 at time: 122 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1028 From : LAX
+                       To : JFK has arrived at gate number 8 at time: 122 minute of the day 
+                               
+
+ Flight Number: 1015 From : SMF
+                       To : RDU  has departed from gate number 7 at time: 123 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1029 From : SMF
+                       To : RDU has arrived at gate number 7 at time: 123 minute of the day 
+                               
+
+ Flight Number: 1016 From : IAH
+                       To : MSP  has departed from gate number 6 at time: 124 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1008 From : TUL
+                       To : ONT  has departed from gate number 14 at time: 124 minute of the day 
+                                 Flight departure delayed by 36 minutes
+
+ Flight Number: 1030 From : IAH
+                       To : MSP has arrived at gate number 14 at time: 124 minute of the day 
+                               
+
+ Flight Number: 1031 From : ABQ
+                       To : ATL has arrived at gate number 6 at time: 129 minute of the day 
+                               
+
+ Flight Number: 1017 From : ABQ
+                       To : ATL  has departed from gate number 5 at time: 129 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1032 From : SJC
+                       To : BOS has arrived at gate number 5 at time: 131 minute of the day 
+                               
+
+ Flight Number: 1018 From : SJC
+                       To : BOS  has departed from gate number 19 at time: 131 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1011 From : MAF
+                       To : AMA  has departed from gate number 11 at time: 131 minute of the day 
+                                 Flight departure delayed by 27 minutes
+
+ Flight Number: 1033 From : PHX
+                       To : MIA has arrived at gate number 11 at time: 134 minute of the day 
+                               
+
+ Flight Number: 1013 From : ELP
+                       To : MEM  has departed from gate number 9 at time: 135 minute of the day 
+                                 Flight departure delayed by 20 minutes
+
+ Flight Number: 1034 From : SFO
+                       To : ORD has arrived at gate number 9 at time: 137 minute of the day 
+                               
+
+ Flight Number: 1020 From : SFO
+                       To : ORD  has departed from gate number 17 at time: 137 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1035 From : SLC
+                       To : AUS has arrived at gate number 17 at time: 139 minute of the day 
+                               
+
+ Flight Number: 1021 From : SLC
+                       To : AUS  has departed from gate number 15 at time: 139 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1012 From : HOS
+                       To : DEN  has departed from gate number 10 at time: 145 minute of the day 
+                                 Flight departure delayed by 36 minutes
+
+ Flight Number: 1036 From : TUL
+                       To : ONT has arrived at gate number 10 at time: 148 minute of the day 
+                               
+
+ Flight Number: 1022 From : TUL
+                       To : ONT  has departed from gate number 21 at time: 148 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1037 From : DCA
+                       To : LAS has arrived at gate number 21 at time: 153 minute of the day 
+                               
+
+ Flight Number: 1038 From : BNA
+                       To : SEA has arrived at gate number 15 at time: 157 minute of the day 
+                               
+
+ Flight Number: 1024 From : BNA
+                       To : SEA  has departed from gate number 22 at time: 157 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1039 From : MAF
+                       To : AMA has arrived at gate number 22 at time: 164 minute of the day 
+                               
+
+ Flight Number: 1019 From : PHX
+                       To : MIA  has departed from gate number 18 at time: 168 minute of the day 
+                                 Flight departure delayed by 34 minutes
+
+ Flight Number: 1040 From : HOS
+                       To : DEN has arrived at gate number 18 at time: 169 minute of the day 
+                               
+
+ Flight Number: 1041 From : ELP
+                       To : MEM has arrived at gate number 19 at time: 175 minute of the day 
+                               
+
+ Flight Number: 1027 From : ELP
+                       To : MEM  has departed from gate number 4 at time: 175 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1028 From : LAX
+                       To : JFK  has departed from gate number 8 at time: 182 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1042 From : LAX
+                       To : JFK has arrived at gate number 8 at time: 182 minute of the day 
+                               
+
+ Flight Number: 1043 From : SMF
+                       To : RDU has arrived at gate number 4 at time: 183 minute of the day 
+                               
+
+ Flight Number: 1030 From : IAH
+                       To : MSP  has departed from gate number 14 at time: 184 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1044 From : IAH
+                       To : MSP has arrived at gate number 14 at time: 184 minute of the day 
+                               
+
+ Flight Number: 1023 From : DCA
+                       To : LAS  has departed from gate number 20 at time: 186 minute of the day 
+                                 Flight departure delayed by 33 minutes
+
+ Flight Number: 1031 From : ABQ
+                       To : ATL  has departed from gate number 6 at time: 189 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1045 From : ABQ
+                       To : ATL has arrived at gate number 6 at time: 189 minute of the day 
+                               
+
+ Flight Number: 1032 From : SJC
+                       To : BOS  has departed from gate number 5 at time: 191 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1046 From : SJC
+                       To : BOS has arrived at gate number 5 at time: 191 minute of the day 
+                               
+
+ Flight Number: 1047 From : PHX
+                       To : MIA has arrived at gate number 20 at time: 194 minute of the day 
+                               
+
+ Flight Number: 1025 From : MAF
+                       To : AMA  has departed from gate number 12 at time: 196 minute of the day 
+                                 Flight departure delayed by 32 minutes
+
+ Flight Number: 1034 From : SFO
+                       To : ORD  has departed from gate number 9 at time: 197 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1026 From : HOS
+                       To : DEN  has departed from gate number 16 at time: 197 minute of the day 
+                                 Flight departure delayed by 28 minutes
+
+ Flight Number: 1048 From : SFO
+                       To : ORD has arrived at gate number 16 at time: 197 minute of the day 
+                               
+
+ Flight Number: 1035 From : SLC
+                       To : AUS  has departed from gate number 17 at time: 199 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1049 From : SLC
+                       To : AUS has arrived at gate number 17 at time: 199 minute of the day 
+                               
+
+ Flight Number: 1050 From : TUL
+                       To : ONT has arrived at gate number 9 at time: 208 minute of the day 
+                               
+
+ Flight Number: 1029 From : SMF
+                       To : RDU  has departed from gate number 7 at time: 213 minute of the day 
+                                 Flight departure delayed by 30 minutes
+
+ Flight Number: 1037 From : DCA
+                       To : LAS  has departed from gate number 21 at time: 213 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1051 From : DCA
+                       To : LAS has arrived at gate number 21 at time: 213 minute of the day 
+                               
+
+ Flight Number: 1052 From : BNA
+                       To : SEA has arrived at gate number 7 at time: 217 minute of the day 
+                               
+
+ Flight Number: 1033 From : PHX
+                       To : MIA  has departed from gate number 11 at time: 219 minute of the day 
+                                 Flight departure delayed by 25 minutes
+
+ Flight Number: 1053 From : MAF
+                       To : AMA has arrived at gate number 11 at time: 224 minute of the day 
+                               
+
+ Flight Number: 1040 From : HOS
+                       To : DEN  has departed from gate number 18 at time: 229 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1054 From : HOS
+                       To : DEN has arrived at gate number 18 at time: 229 minute of the day 
+                               
+
+ Flight Number: 1041 From : ELP
+                       To : MEM  has departed from gate number 19 at time: 235 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1055 From : ELP
+                       To : MEM has arrived at gate number 19 at time: 235 minute of the day 
+                               
+
+ Flight Number: 1036 From : TUL
+                       To : ONT  has departed from gate number 10 at time: 237 minute of the day 
+                                 Flight departure delayed by 29 minutes
+
+ Flight Number: 1042 From : LAX
+                       To : JFK  has departed from gate number 8 at time: 242 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1056 From : LAX
+                       To : JFK has arrived at gate number 8 at time: 242 minute of the day 
+                               
+
+ Flight Number: 1043 From : SMF
+                       To : RDU  has departed from gate number 4 at time: 243 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1057 From : SMF
+                       To : RDU has arrived at gate number 4 at time: 243 minute of the day 
+                               
+
+ Flight Number: 1044 From : IAH
+                       To : MSP  has departed from gate number 14 at time: 244 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1058 From : IAH
+                       To : MSP has arrived at gate number 14 at time: 244 minute of the day 
+                               
+
+ Flight Number: 1045 From : ABQ
+                       To : ATL  has departed from gate number 6 at time: 249 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1059 From : ABQ
+                       To : ATL has arrived at gate number 6 at time: 249 minute of the day 
+                               
+
+ Flight Number: 1038 From : BNA
+                       To : SEA  has departed from gate number 15 at time: 250 minute of the day 
+                                 Flight departure delayed by 33 minutes
+
+ Flight Number: 1060 From : SJC
+                       To : BOS has arrived at gate number 15 at time: 251 minute of the day 
+                               
+
+ Flight Number: 1047 From : PHX
+                       To : MIA  has departed from gate number 20 at time: 254 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1061 From : PHX
+                       To : MIA has arrived at gate number 20 at time: 254 minute of the day 
+                               
+
+ Flight Number: 1048 From : SFO
+                       To : ORD  has departed from gate number 16 at time: 257 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1062 From : SFO
+                       To : ORD has arrived at gate number 16 at time: 257 minute of the day 
+                               
+
+ Flight Number: 1063 From : SLC
+                       To : AUS has arrived at gate number 10 at time: 259 minute of the day 
+                               
+
+ Flight Number: 1039 From : MAF
+                       To : AMA  has departed from gate number 22 at time: 263 minute of the day 
+                                 Flight departure delayed by 39 minutes
+
+ Flight Number: 1064 From : TUL
+                       To : ONT has arrived at gate number 22 at time: 268 minute of the day 
+                               
+
+ Flight Number: 1065 From : DCA
+                       To : LAS has arrived at gate number 12 at time: 273 minute of the day 
+                               
+
+ Flight Number: 1051 From : DCA
+                       To : LAS  has departed from gate number 21 at time: 273 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1046 From : SJC
+                       To : BOS  has departed from gate number 5 at time: 273 minute of the day 
+                                 Flight departure delayed by 22 minutes
+
+ Flight Number: 1066 From : BNA
+                       To : SEA has arrived at gate number 5 at time: 277 minute of the day 
+                               
+
+ Flight Number: 1067 From : MAF
+                       To : AMA has arrived at gate number 21 at time: 284 minute of the day 
+                               
+
+ Flight Number: 1053 From : MAF
+                       To : AMA  has departed from gate number 11 at time: 284 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1049 From : SLC
+                       To : AUS  has departed from gate number 17 at time: 286 minute of the day 
+                                 Flight departure delayed by 27 minutes
+
+ Flight Number: 1068 From : HOS
+                       To : DEN has arrived at gate number 17 at time: 289 minute of the day 
+                               
+
+ Flight Number: 1054 From : HOS
+                       To : DEN  has departed from gate number 18 at time: 289 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1069 From : ELP
+                       To : MEM has arrived at gate number 18 at time: 295 minute of the day 
+                               
+
+ Flight Number: 1050 From : TUL
+                       To : ONT  has departed from gate number 9 at time: 298 minute of the day 
+                                 Flight departure delayed by 30 minutes
+
+ Flight Number: 1070 From : LAX
+                       To : JFK has arrived at gate number 9 at time: 302 minute of the day 
+                               
+
+ Flight Number: 1056 From : LAX
+                       To : JFK  has departed from gate number 8 at time: 302 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1071 From : SMF
+                       To : RDU has arrived at gate number 4 at time: 303 minute of the day 
+                               
+
+ Flight Number: 1057 From : SMF
+                       To : RDU  has departed from gate number 4 at time: 303 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1072 From : IAH
+                       To : MSP has arrived at gate number 8 at time: 304 minute of the day 
+                               
+
+ Flight Number: 1059 From : ABQ
+                       To : ATL  has departed from gate number 6 at time: 309 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1073 From : ABQ
+                       To : ATL has arrived at gate number 6 at time: 309 minute of the day 
+                               
+
+ Flight Number: 1052 From : BNA
+                       To : SEA  has departed from gate number 7 at time: 309 minute of the day 
+                                 Flight departure delayed by 32 minutes
+
+ Flight Number: 1060 From : SJC
+                       To : BOS  has departed from gate number 15 at time: 311 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1074 From : SJC
+                       To : BOS has arrived at gate number 15 at time: 311 minute of the day 
+                               
+
+ Flight Number: 1075 From : PHX
+                       To : MIA has arrived at gate number 7 at time: 314 minute of the day 
+                               
+
+ Flight Number: 1076 From : SFO
+                       To : ORD has arrived at gate number 11 at time: 317 minute of the day 
+                               
+
+ Flight Number: 1063 From : SLC
+                       To : AUS  has departed from gate number 10 at time: 319 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1055 From : ELP
+                       To : MEM  has departed from gate number 19 at time: 319 minute of the day 
+                                 Flight departure delayed by 24 minutes
+
+ Flight Number: 1077 From : SLC
+                       To : AUS has arrived at gate number 19 at time: 319 minute of the day 
+                               
+
+ Flight Number: 1078 From : TUL
+                       To : ONT has arrived at gate number 10 at time: 328 minute of the day 
+                               
+
+ Flight Number: 1064 From : TUL
+                       To : ONT  has departed from gate number 22 at time: 328 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1065 From : DCA
+                       To : LAS  has departed from gate number 12 at time: 333 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1079 From : DCA
+                       To : LAS has arrived at gate number 12 at time: 333 minute of the day 
+                               
+
+ Flight Number: 1066 From : BNA
+                       To : SEA  has departed from gate number 5 at time: 337 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1080 From : BNA
+                       To : SEA has arrived at gate number 5 at time: 337 minute of the day 
+                               
+
+ Flight Number: 1058 From : IAH
+                       To : MSP  has departed from gate number 14 at time: 343 minute of the day 
+                                 Flight departure delayed by 39 minutes
+
+ Flight Number: 1081 From : MAF
+                       To : AMA has arrived at gate number 14 at time: 344 minute of the day 
+                               
+
+ Flight Number: 1061 From : PHX
+                       To : MIA  has departed from gate number 20 at time: 347 minute of the day 
+                                 Flight departure delayed by 33 minutes
+
+ Flight Number: 1068 From : HOS
+                       To : DEN  has departed from gate number 17 at time: 349 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1082 From : HOS
+                       To : DEN has arrived at gate number 17 at time: 349 minute of the day 
+                               
+
+ Flight Number: 1062 From : SFO
+                       To : ORD  has departed from gate number 16 at time: 352 minute of the day 
+                                 Flight departure delayed by 35 minutes
+
+ Flight Number: 1083 From : ELP
+                       To : MEM has arrived at gate number 16 at time: 355 minute of the day 
+                               
+
+ Flight Number: 1084 From : LAX
+                       To : JFK has arrived at gate number 20 at time: 362 minute of the day 
+                               
+
+ Flight Number: 1085 From : SMF
+                       To : RDU has arrived at gate number 22 at time: 363 minute of the day 
+                               
+
+ Flight Number: 1072 From : IAH
+                       To : MSP  has departed from gate number 8 at time: 364 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1086 From : IAH
+                       To : MSP has arrived at gate number 8 at time: 364 minute of the day 
+                               
+
+ Flight Number: 1073 From : ABQ
+                       To : ATL  has departed from gate number 6 at time: 369 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1087 From : ABQ
+                       To : ATL has arrived at gate number 6 at time: 369 minute of the day 
+                               
+
+ Flight Number: 1088 From : SJC
+                       To : BOS has arrived at gate number 13 at time: 371 minute of the day 
+                               
+
+ Flight Number: 1075 From : PHX
+                       To : MIA  has departed from gate number 7 at time: 374 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1067 From : MAF
+                       To : AMA  has departed from gate number 21 at time: 374 minute of the day 
+                                 Flight departure delayed by 30 minutes
+
+ Flight Number: 1089 From : PHX
+                       To : MIA has arrived at gate number 21 at time: 374 minute of the day 
+                               
+
+ Flight Number: 1076 From : SFO
+                       To : ORD  has departed from gate number 11 at time: 377 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1090 From : SFO
+                       To : ORD has arrived at gate number 11 at time: 377 minute of the day 
+                               
+
+ Flight Number: 1091 From : SLC
+                       To : AUS has arrived at gate number 7 at time: 379 minute of the day 
+                               
+
+ Flight Number: 1071 From : SMF
+                       To : RDU  has departed from gate number 4 at time: 384 minute of the day 
+                                 Flight departure delayed by 21 minutes
+
+ Flight Number: 1092 From : TUL
+                       To : ONT has arrived at gate number 4 at time: 388 minute of the day 
+                               
+
+ Flight Number: 1069 From : ELP
+                       To : MEM  has departed from gate number 18 at time: 391 minute of the day 
+                                 Flight departure delayed by 36 minutes
+
+ Flight Number: 1079 From : DCA
+                       To : LAS  has departed from gate number 12 at time: 393 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1093 From : DCA
+                       To : LAS has arrived at gate number 12 at time: 393 minute of the day 
+                               
+
+ Flight Number: 1094 From : BNA
+                       To : SEA has arrived at gate number 18 at time: 397 minute of the day 
+                               
+
+ Flight Number: 1070 From : LAX
+                       To : JFK  has departed from gate number 9 at time: 398 minute of the day 
+                                 Flight departure delayed by 36 minutes
+
+ Flight Number: 1077 From : SLC
+                       To : AUS  has departed from gate number 19 at time: 400 minute of the day 
+                                 Flight departure delayed by 21 minutes
+
+ Flight Number: 1074 From : SJC
+                       To : BOS  has departed from gate number 15 at time: 402 minute of the day 
+                                 Flight departure delayed by 31 minutes
+
+ Flight Number: 1081 From : MAF
+                       To : AMA  has departed from gate number 14 at time: 404 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1095 From : MAF
+                       To : AMA has arrived at gate number 14 at time: 404 minute of the day 
+                               
+
+ Flight Number: 1078 From : TUL
+                       To : ONT  has departed from gate number 10 at time: 408 minute of the day 
+                                 Flight departure delayed by 20 minutes
+
+ Flight Number: 1096 From : HOS
+                       To : DEN has arrived at gate number 10 at time: 409 minute of the day 
+                               
+
+ Flight Number: 1083 From : ELP
+                       To : MEM  has departed from gate number 16 at time: 415 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1097 From : ELP
+                       To : MEM has arrived at gate number 16 at time: 415 minute of the day 
+                               
+
+ Flight Number: 1098 From : LAX
+                       To : JFK has arrived at gate number 15 at time: 422 minute of the day 
+                               
+
+ Flight Number: 1085 From : SMF
+                       To : RDU  has departed from gate number 22 at time: 423 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1099 From : SMF
+                       To : RDU has arrived at gate number 22 at time: 423 minute of the day 
+                               
+
+ Flight Number: 1100 From : IAH
+                       To : MSP has arrived at gate number 19 at time: 424 minute of the day 
+                               
+
+ Flight Number: 1087 From : ABQ
+                       To : ATL  has departed from gate number 6 at time: 429 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1080 From : BNA
+                       To : SEA  has departed from gate number 5 at time: 429 minute of the day 
+                                 Flight departure delayed by 32 minutes
+
+ Flight Number: 1101 From : ABQ
+                       To : ATL has arrived at gate number 5 at time: 429 minute of the day 
+                               
+
+ Flight Number: 1088 From : SJC
+                       To : BOS  has departed from gate number 13 at time: 431 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1102 From : SJC
+                       To : BOS has arrived at gate number 13 at time: 431 minute of the day 
+                               
+
+ Flight Number: 1082 From : HOS
+                       To : DEN  has departed from gate number 17 at time: 434 minute of the day 
+                                 Flight departure delayed by 25 minutes
+
+ Flight Number: 1103 From : PHX
+                       To : MIA has arrived at gate number 17 at time: 434 minute of the day 
+                               
+
+ Flight Number: 1090 From : SFO
+                       To : ORD  has departed from gate number 11 at time: 437 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1104 From : SFO
+                       To : ORD has arrived at gate number 11 at time: 437 minute of the day 
+                               
+
+ Flight Number: 1105 From : SLC
+                       To : AUS has arrived at gate number 6 at time: 439 minute of the day 
+                               
+
+ Flight Number: 1106 From : TUL
+                       To : ONT has arrived at gate number 9 at time: 448 minute of the day 
+                               
+
+ Flight Number: 1107 From : DCA
+                       To : LAS has arrived at gate number 3 at time: 453 minute of the day 
+                               
+
+ Flight Number: 1086 From : IAH
+                       To : MSP  has departed from gate number 8 at time: 456 minute of the day 
+                                 Flight departure delayed by 32 minutes
+
+ Flight Number: 1108 From : BNA
+                       To : SEA has arrived at gate number 8 at time: 457 minute of the day 
+                               
+
+ Flight Number: 1084 From : LAX
+                       To : JFK  has departed from gate number 20 at time: 458 minute of the day 
+                                 Flight departure delayed by 36 minutes
+
+ Flight Number: 1089 From : PHX
+                       To : MIA  has departed from gate number 21 at time: 463 minute of the day 
+                                 Flight departure delayed by 29 minutes
+
+ Flight Number: 1091 From : SLC
+                       To : AUS  has departed from gate number 7 at time: 464 minute of the day 
+                                 Flight departure delayed by 25 minutes
+
+ Flight Number: 1109 From : MAF
+                       To : AMA has arrived at gate number 7 at time: 464 minute of the day 
+                               
+
+ Flight Number: 1110 From : HOS
+                       To : DEN has arrived at gate number 21 at time: 469 minute of the day 
+                               
+
+ Flight Number: 1096 From : HOS
+                       To : DEN  has departed from gate number 10 at time: 469 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1111 From : ELP
+                       To : MEM has arrived at gate number 10 at time: 475 minute of the day 
+                               
+
+ Flight Number: 1092 From : TUL
+                       To : ONT  has departed from gate number 4 at time: 481 minute of the day 
+                                 Flight departure delayed by 33 minutes
+
+ Flight Number: 1112 From : LAX
+                       To : JFK has arrived at gate number 4 at time: 482 minute of the day 
+                               
+
+ Flight Number: 1093 From : DCA
+                       To : LAS  has departed from gate number 12 at time: 483 minute of the day 
+                                 Flight departure delayed by 30 minutes
+
+ Flight Number: 1113 From : SMF
+                       To : RDU has arrived at gate number 12 at time: 483 minute of the day 
+                               
+
+ Flight Number: 1099 From : SMF
+                       To : RDU  has departed from gate number 22 at time: 483 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1114 From : IAH
+                       To : MSP has arrived at gate number 22 at time: 484 minute of the day 
+                               
+
+ Flight Number: 1094 From : BNA
+                       To : SEA  has departed from gate number 18 at time: 485 minute of the day 
+                                 Flight departure delayed by 28 minutes
+
+ Flight Number: 1115 From : ABQ
+                       To : ATL has arrived at gate number 18 at time: 489 minute of the day 
+                               
+
+ Flight Number: 1116 From : SJC
+                       To : BOS has arrived at gate number 20 at time: 491 minute of the day 
+                               
+
+ Flight Number: 1102 From : SJC
+                       To : BOS  has departed from gate number 13 at time: 491 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1117 From : PHX
+                       To : MIA has arrived at gate number 13 at time: 494 minute of the day 
+                               
+
+ Flight Number: 1103 From : PHX
+                       To : MIA  has departed from gate number 17 at time: 494 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1118 From : SFO
+                       To : ORD has arrived at gate number 17 at time: 497 minute of the day 
+                               
+
+ Flight Number: 1095 From : MAF
+                       To : AMA  has departed from gate number 14 at time: 499 minute of the day 
+                                 Flight departure delayed by 35 minutes
+
+ Flight Number: 1119 From : SLC
+                       To : AUS has arrived at gate number 14 at time: 499 minute of the day 
+                               
+
+ Flight Number: 1120 From : TUL
+                       To : ONT has arrived at gate number 2 at time: 508 minute of the day 
+                               
+
+ Flight Number: 1097 From : ELP
+                       To : MEM  has departed from gate number 16 at time: 509 minute of the day 
+                                 Flight departure delayed by 34 minutes
+
+ Flight Number: 1098 From : LAX
+                       To : JFK  has departed from gate number 15 at time: 511 minute of the day 
+                                 Flight departure delayed by 29 minutes
+
+ Flight Number: 1107 From : DCA
+                       To : LAS  has departed from gate number 3 at time: 513 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1121 From : DCA
+                       To : LAS has arrived at gate number 3 at time: 513 minute of the day 
+                               
+
+ Flight Number: 1108 From : BNA
+                       To : SEA  has departed from gate number 8 at time: 517 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1122 From : BNA
+                       To : SEA has arrived at gate number 8 at time: 517 minute of the day 
+                               
+
+ Flight Number: 1100 From : IAH
+                       To : MSP  has departed from gate number 19 at time: 523 minute of the day 
+                                 Flight departure delayed by 39 minutes
+
+ Flight Number: 1123 From : MAF
+                       To : AMA has arrived at gate number 19 at time: 524 minute of the day 
+                               
+
+ Flight Number: 1104 From : SFO
+                       To : ORD  has departed from gate number 11 at time: 526 minute of the day 
+                                 Flight departure delayed by 29 minutes
+
+ Flight Number: 1101 From : ABQ
+                       To : ATL  has departed from gate number 5 at time: 527 minute of the day 
+                                 Flight departure delayed by 38 minutes
+
+ Flight Number: 1124 From : HOS
+                       To : DEN has arrived at gate number 5 at time: 529 minute of the day 
+                               
+
+ Flight Number: 1110 From : HOS
+                       To : DEN  has departed from gate number 21 at time: 529 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1125 From : ELP
+                       To : MEM has arrived at gate number 21 at time: 535 minute of the day 
+                               
+
+ Flight Number: 1105 From : SLC
+                       To : AUS  has departed from gate number 6 at time: 538 minute of the day 
+                                 Flight departure delayed by 39 minutes
+
+ Flight Number: 1126 From : LAX
+                       To : JFK has arrived at gate number 6 at time: 542 minute of the day 
+                               
+
+ Flight Number: 1106 From : TUL
+                       To : ONT  has departed from gate number 9 at time: 543 minute of the day 
+                                 Flight departure delayed by 35 minutes
+
+ Flight Number: 1127 From : SMF
+                       To : RDU has arrived at gate number 9 at time: 543 minute of the day 
+                               
+
+ Flight Number: 1113 From : SMF
+                       To : RDU  has departed from gate number 12 at time: 543 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1128 From : IAH
+                       To : MSP has arrived at gate number 12 at time: 544 minute of the day 
+                               
+
+ Flight Number: 1114 From : IAH
+                       To : MSP  has departed from gate number 22 at time: 544 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1129 From : ABQ
+                       To : ATL has arrived at gate number 22 at time: 549 minute of the day 
+                               
+
+ Flight Number: 1109 From : MAF
+                       To : AMA  has departed from gate number 7 at time: 549 minute of the day 
+                                 Flight departure delayed by 25 minutes
+
+ Flight Number: 1115 From : ABQ
+                       To : ATL  has departed from gate number 18 at time: 549 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1130 From : SJC
+                       To : BOS has arrived at gate number 18 at time: 551 minute of the day 
+                               
+
+ Flight Number: 1116 From : SJC
+                       To : BOS  has departed from gate number 20 at time: 551 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1131 From : PHX
+                       To : MIA has arrived at gate number 20 at time: 554 minute of the day 
+                               
+
+ Flight Number: 1117 From : PHX
+                       To : MIA  has departed from gate number 13 at time: 554 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1132 From : SFO
+                       To : ORD has arrived at gate number 13 at time: 557 minute of the day 
+                               
+
+ Flight Number: 1118 From : SFO
+                       To : ORD  has departed from gate number 17 at time: 557 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1133 From : SLC
+                       To : AUS has arrived at gate number 17 at time: 559 minute of the day 
+                               
+
+ Flight Number: 1111 From : ELP
+                       To : MEM  has departed from gate number 10 at time: 566 minute of the day 
+                                 Flight departure delayed by 31 minutes
+
+ Flight Number: 1134 From : TUL
+                       To : ONT has arrived at gate number 10 at time: 568 minute of the day 
+                               
+
+ Flight Number: 1120 From : TUL
+                       To : ONT  has departed from gate number 2 at time: 568 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1112 From : LAX
+                       To : JFK  has departed from gate number 4 at time: 572 minute of the day 
+                                 Flight departure delayed by 30 minutes
+
+ Flight Number: 1135 From : DCA
+                       To : LAS has arrived at gate number 4 at time: 573 minute of the day 
+                               
+
+ Flight Number: 1121 From : DCA
+                       To : LAS  has departed from gate number 3 at time: 573 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1136 From : BNA
+                       To : SEA has arrived at gate number 3 at time: 577 minute of the day 
+                               
+
+ Flight Number: 1137 From : MAF
+                       To : AMA has arrived at gate number 2 at time: 584 minute of the day 
+                               
+
+ Flight Number: 1138 From : HOS
+                       To : DEN has arrived at gate number 7 at time: 589 minute of the day 
+                               
+
+ Flight Number: 1124 From : HOS
+                       To : DEN  has departed from gate number 5 at time: 589 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1119 From : SLC
+                       To : AUS  has departed from gate number 14 at time: 589 minute of the day 
+                                 Flight departure delayed by 30 minutes
+
+ Flight Number: 1139 From : ELP
+                       To : MEM has arrived at gate number 14 at time: 595 minute of the day 
+                               
+
+ Flight Number: 1140 From : LAX
+                       To : JFK has arrived at gate number 5 at time: 602 minute of the day 
+                               
+
+ Flight Number: 1126 From : LAX
+                       To : JFK  has departed from gate number 6 at time: 602 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1141 From : SMF
+                       To : RDU has arrived at gate number 6 at time: 603 minute of the day 
+                               
+
+ Flight Number: 1127 From : SMF
+                       To : RDU  has departed from gate number 9 at time: 603 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1142 From : IAH
+                       To : MSP has arrived at gate number 9 at time: 604 minute of the day 
+                               
+
+ Flight Number: 1122 From : BNA
+                       To : SEA  has departed from gate number 8 at time: 606 minute of the day 
+                                 Flight departure delayed by 29 minutes
+
+ Flight Number: 1143 From : ABQ
+                       To : ATL has arrived at gate number 8 at time: 609 minute of the day 
+                               
+
+ Flight Number: 1129 From : ABQ
+                       To : ATL  has departed from gate number 22 at time: 609 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1144 From : SJC
+                       To : BOS has arrived at gate number 22 at time: 611 minute of the day 
+                               
+
+ Flight Number: 1145 From : PHX
+                       To : MIA has arrived at gate number 11 at time: 614 minute of the day 
+                               
+
+ Flight Number: 1131 From : PHX
+                       To : MIA  has departed from gate number 20 at time: 614 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1123 From : MAF
+                       To : AMA  has departed from gate number 19 at time: 614 minute of the day 
+                                 Flight departure delayed by 30 minutes
+
+ Flight Number: 1132 From : SFO
+                       To : ORD  has departed from gate number 13 at time: 617 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1146 From : SFO
+                       To : ORD has arrived at gate number 13 at time: 617 minute of the day 
+                               
+
+ Flight Number: 1147 From : SLC
+                       To : AUS has arrived at gate number 19 at time: 619 minute of the day 
+                               
+
+ Flight Number: 1148 From : TUL
+                       To : ONT has arrived at gate number 20 at time: 628 minute of the day 
+                               
+
+ Flight Number: 1125 From : ELP
+                       To : MEM  has departed from gate number 21 at time: 632 minute of the day 
+                                 Flight departure delayed by 37 minutes
+
+ Flight Number: 1149 From : DCA
+                       To : LAS has arrived at gate number 21 at time: 633 minute of the day 
+                               
+
+ Flight Number: 1135 From : DCA
+                       To : LAS  has departed from gate number 4 at time: 633 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1128 From : IAH
+                       To : MSP  has departed from gate number 12 at time: 634 minute of the day 
+                                 Flight departure delayed by 30 minutes
+
+ Flight Number: 1150 From : BNA
+                       To : SEA has arrived at gate number 12 at time: 637 minute of the day 
+                               
+
+ Flight Number: 1151 From : MAF
+                       To : AMA has arrived at gate number 4 at time: 644 minute of the day 
+                               
+
+ Flight Number: 1137 From : MAF
+                       To : AMA  has departed from gate number 2 at time: 644 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1152 From : HOS
+                       To : DEN has arrived at gate number 2 at time: 649 minute of the day 
+                               
+
+ Flight Number: 1138 From : HOS
+                       To : DEN  has departed from gate number 7 at time: 649 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1130 From : SJC
+                       To : BOS  has departed from gate number 18 at time: 650 minute of the day 
+                                 Flight departure delayed by 39 minutes
+
+ Flight Number: 1153 From : ELP
+                       To : MEM has arrived at gate number 18 at time: 655 minute of the day 
+                               
+
+ Flight Number: 1133 From : SLC
+                       To : AUS  has departed from gate number 17 at time: 655 minute of the day 
+                                 Flight departure delayed by 36 minutes
+
+ Flight Number: 1154 From : LAX
+                       To : JFK has arrived at gate number 17 at time: 662 minute of the day 
+                               
+
+ Flight Number: 1140 From : LAX
+                       To : JFK  has departed from gate number 5 at time: 662 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1141 From : SMF
+                       To : RDU  has departed from gate number 6 at time: 663 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1155 From : SMF
+                       To : RDU has arrived at gate number 6 at time: 663 minute of the day 
+                               
+
+ Flight Number: 1156 From : IAH
+                       To : MSP has arrived at gate number 5 at time: 664 minute of the day 
+                               
+
+ Flight Number: 1142 From : IAH
+                       To : MSP  has departed from gate number 9 at time: 664 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1134 From : TUL
+                       To : ONT  has departed from gate number 10 at time: 666 minute of the day 
+                                 Flight departure delayed by 38 minutes
+
+ Flight Number: 1136 From : BNA
+                       To : SEA  has departed from gate number 3 at time: 666 minute of the day 
+                                 Flight departure delayed by 29 minutes
+
+ Flight Number: 1157 From : ABQ
+                       To : ATL has arrived at gate number 3 at time: 669 minute of the day 
+                               
+
+ Flight Number: 1158 From : SJC
+                       To : BOS has arrived at gate number 10 at time: 671 minute of the day 
+                               
+
+ Flight Number: 1159 From : PHX
+                       To : MIA has arrived at gate number 9 at time: 674 minute of the day 
+                               
+
+ Flight Number: 1139 From : ELP
+                       To : MEM  has departed from gate number 14 at time: 675 minute of the day 
+                                 Flight departure delayed by 20 minutes
+
+ Flight Number: 1160 From : SFO
+                       To : ORD has arrived at gate number 14 at time: 677 minute of the day 
+                               
+
+ Flight Number: 1146 From : SFO
+                       To : ORD  has departed from gate number 13 at time: 677 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1161 From : SLC
+                       To : AUS has arrived at gate number 13 at time: 679 minute of the day 
+                               
+
+ Flight Number: 1162 From : TUL
+                       To : ONT has arrived at gate number 7 at time: 688 minute of the day 
+                               
+
+ Flight Number: 1163 From : DCA
+                       To : LAS has arrived at gate number 15 at time: 693 minute of the day 
+                               
+
+ Flight Number: 1143 From : ABQ
+                       To : ATL  has departed from gate number 8 at time: 694 minute of the day 
+                                 Flight departure delayed by 25 minutes
+
+ Flight Number: 1144 From : SJC
+                       To : BOS  has departed from gate number 22 at time: 695 minute of the day 
+                                 Flight departure delayed by 24 minutes
+
+ Flight Number: 1150 From : BNA
+                       To : SEA  has departed from gate number 12 at time: 697 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1164 From : BNA
+                       To : SEA has arrived at gate number 12 at time: 697 minute of the day 
+                               
+
+ Flight Number: 1145 From : PHX
+                       To : MIA  has departed from gate number 11 at time: 698 minute of the day 
+                                 Flight departure delayed by 24 minutes
+
+ Flight Number: 1165 From : MAF
+                       To : AMA has arrived at gate number 11 at time: 704 minute of the day 
+                               
+
+ Flight Number: 1151 From : MAF
+                       To : AMA  has departed from gate number 4 at time: 704 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1152 From : HOS
+                       To : DEN  has departed from gate number 2 at time: 709 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1166 From : HOS
+                       To : DEN has arrived at gate number 2 at time: 709 minute of the day 
+                               
+
+ Flight Number: 1147 From : SLC
+                       To : AUS  has departed from gate number 19 at time: 713 minute of the day 
+                                 Flight departure delayed by 34 minutes
+
+ Flight Number: 1167 From : ELP
+                       To : MEM has arrived at gate number 19 at time: 715 minute of the day 
+                               
+
+ Flight Number: 1153 From : ELP
+                       To : MEM  has departed from gate number 18 at time: 715 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1148 From : TUL
+                       To : ONT  has departed from gate number 20 at time: 720 minute of the day 
+                                 Flight departure delayed by 32 minutes
+
+ Flight Number: 1168 From : LAX
+                       To : JFK has arrived at gate number 20 at time: 722 minute of the day 
+                               
+
+ Flight Number: 1169 From : SMF
+                       To : RDU has arrived at gate number 18 at time: 723 minute of the day 
+                               
+
+ Flight Number: 1155 From : SMF
+                       To : RDU  has departed from gate number 6 at time: 723 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1170 From : IAH
+                       To : MSP has arrived at gate number 6 at time: 724 minute of the day 
+                               
+
+ Flight Number: 1156 From : IAH
+                       To : MSP  has departed from gate number 5 at time: 724 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1171 From : ABQ
+                       To : ATL has arrived at gate number 5 at time: 729 minute of the day 
+                               
+
+ Flight Number: 1157 From : ABQ
+                       To : ATL  has departed from gate number 3 at time: 729 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1149 From : DCA
+                       To : LAS  has departed from gate number 21 at time: 730 minute of the day 
+                                 Flight departure delayed by 37 minutes
+
+ Flight Number: 1172 From : SJC
+                       To : BOS has arrived at gate number 21 at time: 731 minute of the day 
+                               
+
+ Flight Number: 1173 From : PHX
+                       To : MIA has arrived at gate number 3 at time: 734 minute of the day 
+                               
+
+ Flight Number: 1174 From : SFO
+                       To : ORD has arrived at gate number 4 at time: 737 minute of the day 
+                               
+
+ Flight Number: 1175 From : SLC
+                       To : AUS has arrived at gate number 22 at time: 739 minute of the day 
+                               
+
+ Flight Number: 1161 From : SLC
+                       To : AUS  has departed from gate number 13 at time: 739 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1176 From : TUL
+                       To : ONT has arrived at gate number 13 at time: 748 minute of the day 
+                               
+
+ Flight Number: 1162 From : TUL
+                       To : ONT  has departed from gate number 7 at time: 748 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1177 From : DCA
+                       To : LAS has arrived at gate number 7 at time: 753 minute of the day 
+                               
+
+ Flight Number: 1163 From : DCA
+                       To : LAS  has departed from gate number 15 at time: 753 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1154 From : LAX
+                       To : JFK  has departed from gate number 17 at time: 755 minute of the day 
+                                 Flight departure delayed by 33 minutes
+
+ Flight Number: 1178 From : BNA
+                       To : SEA has arrived at gate number 17 at time: 757 minute of the day 
+                               
+
+ Flight Number: 1164 From : BNA
+                       To : SEA  has departed from gate number 12 at time: 757 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1159 From : PHX
+                       To : MIA  has departed from gate number 9 at time: 762 minute of the day 
+                                 Flight departure delayed by 28 minutes
+
+ Flight Number: 1158 From : SJC
+                       To : BOS  has departed from gate number 10 at time: 764 minute of the day 
+                                 Flight departure delayed by 33 minutes
+
+ Flight Number: 1179 From : MAF
+                       To : AMA has arrived at gate number 10 at time: 764 minute of the day 
+                               
+
+ Flight Number: 1165 From : MAF
+                       To : AMA  has departed from gate number 11 at time: 764 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1180 From : HOS
+                       To : DEN has arrived at gate number 11 at time: 769 minute of the day 
+                               
+
+ Flight Number: 1160 From : SFO
+                       To : ORD  has departed from gate number 14 at time: 771 minute of the day 
+                                 Flight departure delayed by 34 minutes
+
+ Flight Number: 1181 From : ELP
+                       To : MEM has arrived at gate number 14 at time: 775 minute of the day 
+                               
+
+ Flight Number: 1182 From : LAX
+                       To : JFK has arrived at gate number 9 at time: 782 minute of the day 
+                               
+
+ Flight Number: 1168 From : LAX
+                       To : JFK  has departed from gate number 20 at time: 782 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1183 From : SMF
+                       To : RDU has arrived at gate number 20 at time: 783 minute of the day 
+                               
+
+ Flight Number: 1170 From : IAH
+                       To : MSP  has departed from gate number 6 at time: 784 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1184 From : IAH
+                       To : MSP has arrived at gate number 6 at time: 784 minute of the day 
+                               
+
+ Flight Number: 1185 From : ABQ
+                       To : ATL has arrived at gate number 12 at time: 789 minute of the day 
+                               
+
+ Flight Number: 1186 From : SJC
+                       To : BOS has arrived at gate number 15 at time: 791 minute of the day 
+                               
+
+ Flight Number: 1187 From : PHX
+                       To : MIA has arrived at gate number 8 at time: 794 minute of the day 
+                               
+
+ Flight Number: 1173 From : PHX
+                       To : MIA  has departed from gate number 3 at time: 794 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1174 From : SFO
+                       To : ORD  has departed from gate number 4 at time: 797 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1188 From : SFO
+                       To : ORD has arrived at gate number 3 at time: 797 minute of the day 
+                               
+
+ Flight Number: 1166 From : HOS
+                       To : DEN  has departed from gate number 2 at time: 798 minute of the day 
+                                 Flight departure delayed by 29 minutes
+
+ Flight Number: 1189 From : SLC
+                       To : AUS has arrived at gate number 2 at time: 799 minute of the day 
+                               
+
+ Flight Number: 1167 From : ELP
+                       To : MEM  has departed from gate number 19 at time: 801 minute of the day 
+                                 Flight departure delayed by 26 minutes
+
+ Flight Number: 1176 From : TUL
+                       To : ONT  has departed from gate number 13 at time: 808 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1190 From : TUL
+                       To : ONT has arrived at gate number 13 at time: 808 minute of the day 
+                               
+
+ Flight Number: 1171 From : ABQ
+                       To : ATL  has departed from gate number 5 at time: 809 minute of the day 
+                                 Flight departure delayed by 20 minutes
+
+ Flight Number: 1191 From : DCA
+                       To : LAS has arrived at gate number 5 at time: 813 minute of the day 
+                               
+
+ Flight Number: 1169 From : SMF
+                       To : RDU  has departed from gate number 18 at time: 815 minute of the day 
+                                 Flight departure delayed by 32 minutes
+
+ Flight Number: 1172 From : SJC
+                       To : BOS  has departed from gate number 21 at time: 815 minute of the day 
+                                 Flight departure delayed by 24 minutes
+
+ Flight Number: 1192 From : BNA
+                       To : SEA has arrived at gate number 21 at time: 817 minute of the day 
+                               
+
+ Flight Number: 1179 From : MAF
+                       To : AMA  has departed from gate number 10 at time: 824 minute of the day 
+                                 Filght departure on time.
+
+ Flight Number: 1193 From : MAF
+                       To : AMA has arrived at gate number 10 at time: 824 minute of the day 
+                               
+
+ Flight Number: 1180 From : HOS
+                       To : DEN  has departed 

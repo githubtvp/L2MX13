@@ -1,0 +1,39 @@
+	for (hour = 0; hour < MAX_HOURS; hour++)
+	{
+		for (int i = 0; i < IN_FLTS_HOURLY_SCHEDULE.size(); i++)
+		{
+			int currArrTime = IN_FLTS_HOURLY_SCHEDULE[i] + (hour * 60);
+			aEventRec aNewFltRec;
+			aNewFltRec.arrDepTime = currArrTime; // assign current time as arrival time for the flght plan record
+			aNewFltRec.arrDepCode = 'A'; // assign arrival code for the time
+			aNewFltRec.orig = ORIG[i]; // assign originate location from the ORIG array 
+			aNewFltRec.dest = DESTN[i];// assign destination location from the DESTN array 
+			aNewFltRec.fltNo = flitNo; // assign a Flight number
+			servicedFlights.push_back(aNewFltRec); // push the flight plan arrival record
+			flitNo++;
+		}
+	}
+
+	BinaryHeap<aEventRec> flightsHeap1(servicedFlights);	
+	aEventRec aFltRec;	
+	while ( flightsHeap1.getSize() > 0 )
+	{
+		aFltRec = flightsHeap1.findMin(); // to get time of the root record(next for dep) 		
+		flightsHeap1.deleteMin();// delete the root record from heap
+		if (aFltRec.arrDepCode == 'D') // if it is a departure flight
+		{
+			gateNosStack.push(aFltRec.gateNo);	//get the gate no of root record that is to be deleted and replenish the gateStack	
+		}
+		else if( !gateNosStack.isEmptyStack() ) // else it is a arrival flight that needs to be allotted a gateNo
+		{				
+			availGateNo = gateNosStack.pop(); //pop a gateNo from gateNostack 
+			aFltRec.gateNo = availGateNo; // allot a gateNo to a flight plan
+			aFltRec.arrDepTime = getDepartureTime(aFltRec.arrDepTime);// allocate a departure time with delay incorporated when arrival allowed and a gate No alloted 
+			aFltRec.arrDepCode = 'D';// assign departure code for the time						
+			flightsHeap1.insert(aFltRec);//insert the flight departure plan into depFlightsHeap
+		}
+		else // it was a arrival flight for which gateNo was not available
+		{
+			cout << "  Airport Full ! - Filght Diverted to another Airport." << endl;		
+		}
+	}

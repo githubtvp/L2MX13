@@ -1,0 +1,40 @@
+
+***** Begining of Assignment *****
+
+
+ Assignment # 5 
+ Student Name : Varadharaja Perumal 
+ Student Id   : 1008475675 
+ Due : Tuesday, March 15, 2016
+ 
+
+ Airport full at time : 314
+ Flight Number : 1075 From : PHX
+                        To : MIA that was to arrive at : 314 minute of the day 
+                                was diverted to another airport ! 
+
+ Airport full at time : 317
+ Flight Number : 1076 From : SFO
+                        To : ORD that was to arrive at : 317 minute of the day 
+                                was diverted to another airport ! 
+
+ Airport full at time : 319
+ Flight Number : 1077 From : SLC
+                        To : AUS that was to arrive at : 319 minute of the day 
+                                was diverted to another airport ! 
+
+ Airport full at time : 859
+ Flight Number : 1203 From : SLC
+                        To : AUS that was to arrive at : 859 minute of the day 
+                                was diverted to another airport ! 
+
+Number of Gates in the Airport : 20
+Number of times Airport was full and consequently total number of flights that got diverted : 4
+
+       20 gates not adequate for the number of Aircrafts arriving into the airprort !
+
+PROGRAM EXECUTION ABORTED !!  
+
+
+***** End of Assignment *****
+

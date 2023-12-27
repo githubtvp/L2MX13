@@ -1,0 +1,22 @@
+
+
+***** Begining of Report *****
+
+ 23MX13-Data Structures : Presentation Assignment 
+ Student Name : Lt Col T Varadharajaperumal(Retd) 
+ Student Id : 23MX128 
+ Date : Tuesday, November 7, 2023
+ 
+
+ Airport full at time : 619
+ Flight Number : 1147 From : SLC
+                        To : AUS that was to arrive at : 619 minute of the day 
+                                was diverted to another airport ! 
+
+Number of Gates in the Airport : 21
+Number of times Airport was full and consequently total number of flights that got diverted : 1
+
+       21 gates not adequate for the number of Aircrafts arriving into the airprort !
+
+***** End of report *****
+

@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\myaccount\desktop\cs302\assignment5\asgn5\asgn5\main.cpp(21): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  asgn5.vcxproj -> C:\Users\myaccount\Desktop\CS302\Assignment5\asgn5\Debug\asgn5.exe
