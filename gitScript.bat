@@ -1,5 +1,3 @@
-:: cd C:\Users\Varadha\Desktop\MX13
-
 git pull origin main
 git add .
 git commit -a -m "Saving latest Updates with script"
