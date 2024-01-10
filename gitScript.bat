@@ -1,4 +1,4 @@
-cd C:\Users\Varadha\Desktop\MX13
+:: cd C:\Users\Varadha\Desktop\MX13
 
 git pull origin main
 git add .
